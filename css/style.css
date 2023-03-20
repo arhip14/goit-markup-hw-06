@@ -723,6 +723,7 @@ color: #FFFFFF;
   outline: transparent;
   padding-left: 16px;
  margin-top: 16px;
+ color:var(--btn-hero-color)
 }
 .subscribe-title {
   font-family: 'Roboto';
