@@ -143,7 +143,6 @@ body {
 .btn:focus {
   color: var(--btn-hero-color);
   background-color: var(--btn--hover--color);
-  border-color: var(--btn--hover--color);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
@@ -547,8 +546,6 @@ body {
   fill:var(--logo-color);
 }
 .form-icon {
-  width: 12px;
-  height: 12px;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -750,8 +747,6 @@ margin-bottom: 16px;
   background-color: #4d5ae5;
   color: #FFFFFF;
   display: flex;
-
-
 }
 .subscribe-icon {
   margin-left: 16px;
