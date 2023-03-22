@@ -612,7 +612,7 @@ body {
   width: 0;
   height: 0;
   opacity: 0;
-  visibility: hidden;
+  appearance:none;
   user-select: none;
   pointer-events: none;
   cursor: none;
